@@ -1,0 +1,13 @@
+{
+    "name": "@ashversache/toaster",
+    "version": "1.0.1",
+    "description": "A Toaster for prompting errors or success messages on screen.",
+    "license": "MIT",
+    "main": "index.js",
+    "keywords": [
+        "toaster",
+        "npm",
+        "package",
+        "ashversache"
+    ]
+}
